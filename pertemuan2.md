@@ -37,11 +37,11 @@ Soal:
 
 Jawaban:
 
-    - Dart merupakan bahasa pemrograman yang memory managementnya menggunakan Garbage Collector
-    - Dart adalah Staticly Typed Language
-    - Dart dibuat sebagai usaha untuk memecahkan masalah pada JavaScript
-    - Dart menggunakan Virtual Machine untuk menjalankan program 
-    - Eksekusi program dart bisa dengan JIT(Just-in-Time) dan AOT(Ahead-of-Time)
-    - Dart berorientasi objek
-    - Operators dalam dart sama seperti kebanyakan bahasa pemrograman lainnya
-    - DartPad bisa digunakan untuk mencoba eksekusi pada browser dan tidak perlu installasi secara lokal
+- Dart merupakan bahasa pemrograman yang memory managementnya menggunakan Garbage Collector
+- Dart adalah Staticly Typed Language
+- Dart dibuat sebagai usaha untuk memecahkan masalah pada JavaScript
+- Dart menggunakan Virtual Machine untuk menjalankan program 
+- Eksekusi program dart bisa dengan JIT(Just-in-Time) dan AOT(Ahead-of-Time)
+- Dart berorientasi objek
+- Operators dalam dart sama seperti kebanyakan bahasa pemrograman lainnya
+- DartPad bisa digunakan untuk mencoba eksekusi pada browser dan tidak perlu installasi secara lokal
